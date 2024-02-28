@@ -409,7 +409,7 @@ header .navigation .navigation-items a:hover::before{
   justify-content: center;
   align-items: flex-start;
   flex-direction: column;
-  background: url(../img/banner/b7.jpg) center / cover;
+  background: url(../img/banner/pro4.jpg) center / cover;
   height: 30vh;
   padding: 20px;
   margin-bottom: 20px;
@@ -425,10 +425,10 @@ header .navigation .navigation-items a:hover::before{
   font-size: 15px;
 }
 #banner3 .banner-box:nth-of-type(2){
-  background-image: url(../img/banner/b4.jpg);
+  background-image: url(../img/banner/pro2.jpg);
 }
 #banner3 .banner-box:nth-of-type(3){
-  background-image: url(../img/banner/b18.jpg);
+  background-image: url(../img/banner/pro3.jpg);
 }
 /* <!-- 
         News Letter Section
